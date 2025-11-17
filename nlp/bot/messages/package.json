@@ -6,7 +6,7 @@
   "dependencies": {
     "botbuilder": "^3.4.2",
     "botbuilder-azure": "0.0.1",
-    "js-yaml": "^3.7.0",
+    "js-yaml": "^4.1.1",
     "restify": "^4.1.1"
   },
   "devDependencies": {
